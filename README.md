@@ -337,3 +337,6 @@ b. Update your HTML
     - HTTPS is working
     - Content from index.html is loading
     - Google OAuth is protecting access
+
+![image](https://github.com/user-attachments/assets/01c38715-621c-42f6-b2e9-f2c4c30ebd67)
+
